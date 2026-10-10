@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @abhishekmsm51w-star
+/src/backend/database.py      @abhishekmsm51w-star
+/src/backend/routers/auth.py  @abhishekmsm51w-star
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @abhishekmsm51w-star
